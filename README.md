@@ -1,4 +1,4 @@
-# 3-Week Major Project: Professional Landing Page
+# Module 1 - Major Project: Professional Landing Page
 ## Comprehensive Web Development Portfolio Piece
 
 **⏱️ Timeline:** 4 weeks (1 month)  
